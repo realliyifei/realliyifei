@@ -1,4 +1,5 @@
 ### Hi there 👋 Please see my [HOMEPAGE (主页)](https://realliyifei.github.io)
 
-- 🎓 I’m currently studying data science in [University of Pennsylvania](https://www.upenn.edu)
-- 🧠 I’m interested in AGI and tech management
+- 🎓 Currently studying data science in [University of Pennsylvania](https://www.upenn.edu)
+- 🧠 Interested in AGI and tech management
+- 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally
