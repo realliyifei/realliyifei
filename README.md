@@ -4,3 +4,4 @@
 - 🎒 See the things I learned in [AI](https://github.com/realliyifei/Everything-about-AI) and [SDE](https://github.com/realliyifei/Everything-about-SDE)
 - 🧠 Interested in AGI and tech management
 - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally
+- ⚒️ My projects: [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction), [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), [RL](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), [OS](https://github.com/realliyifei/Linux-File-System-Demo)
