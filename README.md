@@ -1,4 +1,4 @@
-#### Hi there 👋 Please see my [homepage (主页)](https://realliyifei.github.io)
+### Hi there 👋 Please see my [homepage (主页)](https://realliyifei.github.io)
 
 - 🎓 Currently studying data science in [UPenn](https://www.upenn.edu)
 - 🎒 See the things I learned in [AI](https://github.com/realliyifei/Everything-about-AI) and [SDE](https://github.com/realliyifei/Everything-about-SDE)
