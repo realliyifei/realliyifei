@@ -6,4 +6,4 @@
 - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally
 - ⚒️ My projects: [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction), [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), [RL](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), [OS](https://github.com/realliyifei/Linux-File-System-Demo)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=F3B5B5&icon_color=DCD3CC&text_color=0ABAB5&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=F0C947&icon_color=F3B5B5&text_color=0ABAB5&bg_color=00000000)
