@@ -1,5 +1,5 @@
-#### Hi there 👋 Please see my [homepage (主页)](https://realliyifei.github.io) ![](https://komarev.com/ghpvc/?username=realliyifei&label=Views)
-
+#### Hi there 👋 Please see my [homepage (主页)](https://realliyifei.github.io) 
+![](https://komarev.com/ghpvc/?username=realliyifei&label=Views)
 - 🎓 Currently studying data science in [UPenn](https://www.upenn.edu)
 - 🎒 See the things I learned in [AI](https://github.com/realliyifei/Everything-about-AI) and [SDE](https://github.com/realliyifei/Everything-about-SDE)
 - 🧠 Interested in AGI and tech management
