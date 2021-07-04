@@ -1,6 +1,6 @@
 ### Hi there 👉 my [homepage (主页)](https://realliyifei.github.io)  ![](https://komarev.com/ghpvc/?username=realliyifei&label=Views&color=0ABAB5)
 - 🧠 Interested in AI, SaaS, and tech management
-- 🎓 Currently studying data science in [UPenn](https://www.upenn.edu)
+- 🎓 Currently studying data science in [UPenn](https://dats.seas.upenn.edu/program/)
 - 🎒 See the things I learned in [AI](https://github.com/realliyifei/Everything-about-AI) and [SDE](https://github.com/realliyifei/Everything-about-SDE)
 - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally
 - ⚒️ Main projects: [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction), [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), [OS](https://github.com/realliyifei/Linux-File-System-Demo)
