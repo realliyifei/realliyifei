@@ -1,5 +1,5 @@
 <!-- ### Hi there 👉 my [homepage (主页)](https://realliyifei.github.io)  ![](https://komarev.com/ghpvc/?username=realliyifei&label=Views&color=0ABAB5) -->
-Hi there, welcome to my github
+<!-- Hi there, welcome to my github -->
 - 🧠 Interested in AI, SDE, and tech management
 - 🎓 Currently studying data science in [UPenn](https://dats.seas.upenn.edu/program/)
 - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally
