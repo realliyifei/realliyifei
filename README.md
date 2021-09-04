@@ -6,4 +6,4 @@
 - 🥳 Side projects: Userscript [#1](https://github.com/realliyifei/Userscript-Wikipedia-Optimizor), Alfred [#1](https://github.com/realliyifei/Alfred-Sequential-Strings-Creator) [#2](https://github.com/realliyifei/Alfred-File-Renamer) [#3](https://github.com/realliyifei/Alfred-Safari-Window-for-LRHS-Tabs), Karabiner [#1](https://github.com/realliyifei/Mac-Karabiner-Media-Control-by-Hyperkey) [#2](https://github.com/realliyifei/Mac-Karabiner-Number-Function-Keys) [#3](https://github.com/realliyifei/Mac-Karabiner-Chinese-Punctuations-to-Halfwidth-Forms)
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=D73672&icon_color=F0C947&text_color=0ABAB5&bg_color=00000000)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=D73672&icon_color=F0C947&text_color=0ABAB5&bg_color=00000000) -->
