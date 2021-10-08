@@ -7,3 +7,4 @@
 - 🔗 Links: [tools](https://github.com/realliyifei/links-and-tools) | [upenn-courses](https://github.com/realliyifei/upenn-courses) (private) | [leetcode](https://github.com/realliyifei/Leetcode) (private)
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=D73672&icon_color=F0C947&text_color=0ABAB5&bg_color=00000000) -->
+https://api.github.com/repos/$USER/$REPO?page=$i&per_page=100 | grep 'stargazers_count'
