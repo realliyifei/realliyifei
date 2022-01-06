@@ -33,4 +33,3 @@ Karabiner
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=D73672&icon_color=F0C947&text_color=0ABAB5&bg_color=00000000) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=realliyifei&repo=Alfred-Safari-Window-for-LRHS-Tabs)](https://github.com/realliyifei/Alfred-Safari-Window-for-LRHS-Tabs) -->
