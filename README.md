@@ -11,22 +11,22 @@
 
 - 🥳 Side projects: 
 Userscript 
-[#1](https://github.com/realliyifei/Userscript-Wikipedia-Optimizor), 
+[#1](https://github.com/realliyifei/userscript-wikipedia-optimizor), 
 Alfred 
-[#1](https://github.com/realliyifei/Alfred-Sequential-Strings-Creator) 
-[#2](https://github.com/realliyifei/Alfred-File-Renamer) 
-[#3](https://github.com/realliyifei/Alfred-Safari-Window-for-LRHS-Tabs) (⭐︎1), 
+[#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎1)
+[#2](https://github.com/realliyifei/alfred-file-renamer) 
+[#3](https://github.com/realliyifei/alfred-tab-browser-organizor) (⭐︎3), 
 Karabiner 
-[#1](https://github.com/realliyifei/Mac-Karabiner-Media-Control-by-Hyperkey) 
-[#2](https://github.com/realliyifei/Mac-Karabiner-Number-Function-Keys) 
-[#3](https://github.com/realliyifei/Mac-Karabiner-Chinese-Punctuations-to-Halfwidth-Forms) (⭐︎3)
+[#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) 
+[#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
+[#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms)
 
 - 🔗 Links: 
 [tools](https://github.com/realliyifei/links-and-tools), 
 [slm](https://github.com/realliyifei/lihang-code) 
 | (private) 
 [upenn-courses](https://github.com/realliyifei/upenn-courses), 
-[leetcode](https://github.com/realliyifei/Leetcode), 
+[leetcode](https://github.com/realliyifei/leetcode), 
 [share](https://github.com/realliyifei/share), 
 [530](https://github.com/realliyifei/UPenn-CIS-530)
 
