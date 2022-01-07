@@ -2,7 +2,7 @@
 <!-- - 🧠 Research interests: NLP, CV, multimodal, zero-shot learning, MLSys -->
 <!-- - 🎓 Current program: DS and CS at UPenn, doing NLP research -->
 
-- ⚒️ Main projects: 
+- 🤓 Main projects: 
 [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎3), 
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
@@ -21,7 +21,7 @@ Karabiner
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms)
 
-- 🔗 Links: 
+- 🧐 Access: 
 [tools](https://github.com/realliyifei/links-and-tools), 
 [slm](https://github.com/realliyifei/lihang-code) 
 | (private) 
