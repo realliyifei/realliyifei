@@ -27,8 +27,7 @@ Karabiner
 | (private) 
 [upenn-courses](https://github.com/realliyifei/upenn-courses), 
 [leetcode](https://github.com/realliyifei/leetcode), 
-[share](https://github.com/realliyifei/share), 
-[530](https://github.com/realliyifei/UPenn-CIS-530)
+[522](https://github.com/CIS-522/course-content)
 
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
