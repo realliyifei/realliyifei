@@ -7,7 +7,9 @@
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
-[OS](https://github.com/realliyifei/Linux-File-System-Demo)
+[OS](https://github.com/realliyifei/Linux-File-System-Demo),
+NLP,
+CV
 
 - 🥳 Side projects: 
 Userscript 
@@ -24,10 +26,11 @@ Karabiner
 - 🧐 Access: 
 [tools](https://github.com/realliyifei/links-and-tools), 
 [slm](https://github.com/realliyifei/lihang-code) 
+[522](https://github.com/CIS-522/course-content)
 | (private) 
 [upenn-courses](https://github.com/realliyifei/upenn-courses), 
 [leetcode](https://github.com/realliyifei/leetcode), 
-[522](https://github.com/CIS-522/course-content)
+
 
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
