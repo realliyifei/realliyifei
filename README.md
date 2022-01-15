@@ -25,12 +25,12 @@ Karabiner
 
 - 🧐 Access: 
 [tools](https://github.com/realliyifei/links-and-tools), 
-[slm](https://github.com/realliyifei/lihang-code) 
+[slm](https://github.com/realliyifei/lihang-code), 
 [522](https://github.com/CIS-522/course-content)
 | (private) 
 [upenn-courses](https://github.com/realliyifei/upenn-courses), 
 [leetcode](https://github.com/realliyifei/leetcode), 
-
+[700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
 
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
