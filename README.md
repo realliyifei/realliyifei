@@ -28,9 +28,12 @@ Karabiner
 [slm](https://github.com/realliyifei/lihang-code), 
 [522](https://github.com/CIS-522/course-content)
 | (private) 
-[upenn-courses](https://github.com/realliyifei/upenn-courses), 
-[leetcode](https://github.com/realliyifei/leetcode), 
+<!-- [upenn](https://github.com/realliyifei/upenn-courses),  -->
+[leetcode](https://github.com/realliyifei/leetcode)
+[R1](https://github.com/realliyifei/conceptor-debias),
+[R2](https://github.com/realliyifei/clip-zero-shot),
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
+
 
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
