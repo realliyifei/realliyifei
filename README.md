@@ -15,7 +15,7 @@ CV
 Userscript 
 [#1](https://github.com/realliyifei/userscript-wikipedia-optimizor), 
 Alfred 
-[#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎1)
+[#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎2)
 [#2](https://github.com/realliyifei/alfred-file-renamer) 
 [#3](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎3), 
 Karabiner 
@@ -32,6 +32,7 @@ Karabiner
 [R1](https://github.com/realliyifei/conceptor-debias),
 [R2](https://github.com/realliyifei/clip-zero-shot),
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
+([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game))
 <!-- [upenn](https://github.com/realliyifei/upenn-courses),  -->
 
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
