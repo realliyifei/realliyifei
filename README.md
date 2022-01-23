@@ -4,12 +4,13 @@
 
 - 🤓 Main projects: 
 [NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers),
+NLP2,
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), 
 [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎3), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
-[OS](https://github.com/realliyifei/Linux-File-System-Demo),
+[OS](https://github.com/realliyifei/Linux-File-System-Demo)
 
 - 🥳 Side projects: 
 Userscript 
