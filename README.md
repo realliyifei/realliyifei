@@ -27,7 +27,7 @@ Karabiner
 - 🧐 Access: 
 [tools](https://github.com/realliyifei/links-and-tools), 
 [slm](https://github.com/realliyifei/lihang-code), 
-[522](https://github.com/CIS-522/course-content)
+[522](https://github.com/realliyifei/course-content/tree/main)
 | (private) 
 [leetcode](https://github.com/realliyifei/leetcode),
 [R1](https://github.com/realliyifei/conceptor-debias),
