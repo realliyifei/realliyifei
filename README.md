@@ -2,7 +2,7 @@
 <!-- - 🧠 Research interests: NLP, CV, multimodal, zero-shot learning, MLSys -->
 <!-- - 🎓 Current program: DS and CS at UPenn, doing NLP research -->
 
-![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) | Each project and the star:
+![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) | Each project with its star:
 
 - 🤓 Main projects: 
 [NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers),
