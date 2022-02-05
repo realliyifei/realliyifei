@@ -2,6 +2,8 @@
 <!-- - 🧠 Research interests: NLP, CV, multimodal, zero-shot learning, MLSys -->
 <!-- - 🎓 Current program: DS and CS at UPenn, doing NLP research -->
 
+![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) | Each project and the star:
+
 - 🤓 Main projects: 
 [NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers),
 NLP2,
@@ -36,6 +38,5 @@ Karabiner
 ([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game))
 <!-- [upenn](https://github.com/realliyifei/upenn-courses),  -->
 
-![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realliyifei&show_icons=true&title_color=D73672&icon_color=F0C947&text_color=0ABAB5&bg_color=00000000) -->
