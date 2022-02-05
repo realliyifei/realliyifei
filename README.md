@@ -14,7 +14,7 @@ NLP2,
 
 - 🥳 Side projects: 
 Userscript 
-[#1](https://github.com/realliyifei/userscript-wikipedia-optimizor), 
+[#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1) , 
 Alfred 
 [#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎2) 
 [#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎4) 
