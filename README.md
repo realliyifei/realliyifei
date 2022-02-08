@@ -28,10 +28,10 @@ Karabiner
 
 - 🧐 Access: 
 <!-- [tools](https://github.com/realliyifei/links-and-tools),  -->
-[notes](https://github.com/realliyifei/academic-note), 
-[slm](https://github.com/realliyifei/lihang-code), 
+<!-- [slm](https://github.com/realliyifei/lihang-code),  -->
 [522](https://github.com/realliyifei/course-content/tree/main)
 | (private) 
+[notes](https://github.com/realliyifei/academic-note), 
 [leetcode](https://github.com/realliyifei/leetcode),
 [R1](https://github.com/realliyifei/conceptor-debias),
 [R2](https://github.com/realliyifei/clip-zero-shot),
