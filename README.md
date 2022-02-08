@@ -27,8 +27,6 @@ Karabiner
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms)
 
 - 🧐 Access: 
-<!-- [tools](https://github.com/realliyifei/links-and-tools),  -->
-<!-- [slm](https://github.com/realliyifei/lihang-code),  -->
 [522](https://github.com/realliyifei/course-content/tree/main)
 | (private) 
 [notes](https://github.com/realliyifei/academic-note), 
@@ -37,6 +35,8 @@ Karabiner
 [R2](https://github.com/realliyifei/clip-zero-shot),
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
 ([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game))
+<!-- [tools](https://github.com/realliyifei/links-and-tools),  -->
+<!-- [slm](https://github.com/realliyifei/lihang-code),  -->
 <!-- [upenn](https://github.com/realliyifei/upenn-courses),  -->
 
 <!-- - 📒 Solve [leetcode problems](https://app.gitbook.com/@realliyifei/s/leetcode/v/main/) occasionally -->
