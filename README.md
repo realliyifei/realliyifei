@@ -28,7 +28,6 @@ Karabiner
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms)
 
 - 🧐 Access: 
-[522](https://github.com/realliyifei/course-content/tree/main)
 | (private) 
 [notes](https://github.com/realliyifei/academic-note), 
 [leetcode](https://github.com/realliyifei/leetcode),
