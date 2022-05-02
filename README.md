@@ -27,8 +27,7 @@ Karabiner
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms)
 
-- 🧐 Access: 
-| (private) 
+- 🧐 Access: (private) 
 [notes](https://github.com/realliyifei/academic-note), 
 [leetcode](https://github.com/realliyifei/leetcode),
 [R1](https://github.com/realliyifei/conceptor-debias),
