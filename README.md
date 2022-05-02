@@ -6,7 +6,8 @@
 
 - 🤓 Main projects: 
 [NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers),
-NLP2,
+[NLP2](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation),
+NLP3,
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), 
 [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎3), 
