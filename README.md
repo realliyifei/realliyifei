@@ -10,7 +10,7 @@
 NLP3,
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), 
-[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎3), 
+[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎4), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
 [OS](https://github.com/realliyifei/Linux-File-System-Demo)
