@@ -9,23 +9,23 @@
 [NLP2](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation),
 NLP3,
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
-[DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match), 
-[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎4), 
+[DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match) (⭐︎1), 
+[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎5), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
 [OS](https://github.com/realliyifei/Linux-File-System-Demo)
 
 - 🥳 Side projects: 
 Userscript 
-[#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1) , 
+[#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1), 
 Alfred 
 [#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎2) 
 [#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎4) 
-[#3](https://github.com/realliyifei/alfred-file-renamer), 
+[#3](https://github.com/realliyifei/alfred-file-renamer) (⭐︎1), 
 Karabiner 
 [#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) 
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
-[#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms)
+[#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms) (⭐︎1)
 
 - 🧐 Access: (private) 
 [notes](https://github.com/realliyifei/academic-note), 
