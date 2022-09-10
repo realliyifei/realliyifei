@@ -32,9 +32,9 @@ Karabiner
 [leetcode](https://github.com/realliyifei/leetcode),
 [R1](https://github.com/realliyifei/conceptor-debias),
 [R2](https://github.com/realliyifei/clip-zero-shot),
+[R3](https://github.com/GeekAlexis/ssl-gender-bias),
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
 ([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game)),
-[penn](https://github.com/realliyifei/upenn-courses)
 <!-- [tools](https://github.com/realliyifei/links-and-tools),  -->
 <!-- [slm](https://github.com/realliyifei/lihang-code),  -->
 <!-- [upenn](https://github.com/realliyifei/upenn-courses),  -->
