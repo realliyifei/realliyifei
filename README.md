@@ -35,6 +35,7 @@ Karabiner
 [R3](https://github.com/GeekAlexis/ssl-gender-bias),
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
 ([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game)),
+[530](https://github.com/realliyifei/cis530-computational-linguistics)
 <!-- [tools](https://github.com/realliyifei/links-and-tools),  -->
 <!-- [slm](https://github.com/realliyifei/lihang-code),  -->
 <!-- [upenn](https://github.com/realliyifei/upenn-courses),  -->
