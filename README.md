@@ -27,12 +27,15 @@ Karabiner
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms) (⭐︎1)
 
-- 🧐 Access: (private) 
+- 🧐 Access: 
 [notes](https://github.com/realliyifei/academic-note), 
-[leetcode](https://github.com/realliyifei/leetcode),
+[leetcode](https://github.com/realliyifei/leetcode) 
+| 
 [R1](https://github.com/realliyifei/conceptor-debias),
 [R2](https://github.com/realliyifei/clip-zero-shot),
-[R3](https://github.com/realliyifei/ssl-gender-bias),
+[R3](https://github.com/realliyifei/ssl-gender-bias), 
+[R4](https://github.com/realliyifei/diffusion) 
+| 
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
 ([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game)),
 [530](https://github.com/realliyifei/cis530-computational-linguistics) 
