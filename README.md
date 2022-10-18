@@ -4,7 +4,13 @@
 
 ![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) | Each project with its star:
 
-- 🤓 Main projects: 
+- 🧐 Research:
+[conceptor](https://github.com/realliyifei/conceptor-debias), 
+[clip](https://github.com/realliyifei/clip-zero-shot), 
+[ssl](https://github.com/realliyifei/ssl-gender-bias), 
+[diffusion](https://github.com/realliyifei/diffusion) 
+
+- 🤓 Practice: 
 [NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers),
 [NLP2](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation),
 NLP3,
@@ -15,7 +21,7 @@ NLP3,
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
 [OS](https://github.com/realliyifei/Linux-File-System-Demo)
 
-- 🥳 Side projects: 
+- 🥳 Toy: 
 Userscript 
 [#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1), 
 Alfred 
@@ -27,17 +33,13 @@ Karabiner
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms) (⭐︎1)
 
-- 🧐 Access: 
+- 🙃 Shortcut: 
 [notes](https://github.com/realliyifei/academic-note), 
 [leetcode](https://github.com/realliyifei/leetcode) 
 | 
-[R1](https://github.com/realliyifei/conceptor-debias),
-[R2](https://github.com/realliyifei/clip-zero-shot),
-[R3](https://github.com/realliyifei/ssl-gender-bias), 
-[R4](https://github.com/realliyifei/diffusion) 
-| 
 [700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
-([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game)),
+([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game)), 
+[625](https://github.com/realliyifei/cis625-theory-of-ml), 
 [530](https://github.com/realliyifei/cis530-computational-linguistics) 
 ([official](https://github.com/realliyifei/cis530_materials/tree/main))
 
