@@ -11,9 +11,9 @@
 [diffusion](https://github.com/realliyifei/diffusion) 
 
 - 🤓 Practice: 
-[NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers),
-[NLP2](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation),
-NLP3,
+[NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers), 
+[NLP2](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation), 
+[NLP3](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game), 
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match) (⭐︎1), 
 [ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎5), 
@@ -37,8 +37,7 @@ Karabiner
 [notes](https://github.com/realliyifei/academic-note), 
 [leetcode](https://github.com/realliyifei/leetcode) 
 | 
-[700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen)
-([hw1](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game)), 
+[700](https://github.com/realliyifei/cis700-interactive-fic-and-text-gen), 
 [625](https://github.com/realliyifei/cis625-theory-of-ml), 
 [530](https://github.com/realliyifei/cis530-computational-linguistics) 
 ([official](https://github.com/realliyifei/cis530_materials/tree/main))
