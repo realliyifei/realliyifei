@@ -26,7 +26,7 @@ Userscript
 [#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1), 
 Alfred 
 [#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎2) 
-[#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎4) 
+[#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎5) 
 [#3](https://github.com/realliyifei/alfred-file-renamer) (⭐︎1), 
 Karabiner 
 [#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) 
