@@ -16,7 +16,7 @@
 [NLP3](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game), 
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match) (⭐︎1), 
-[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎5), 
+[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎4), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
 [OS](https://github.com/realliyifei/Linux-File-System-Demo)
@@ -25,11 +25,11 @@
 Userscript 
 [#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1), 
 Alfred 
-[#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎2) 
+[#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎3) 
 [#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎5) 
 [#3](https://github.com/realliyifei/alfred-file-renamer) (⭐︎1), 
 Karabiner 
-[#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) 
+[#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) (⭐︎2) 
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
 [#3](https://github.com/realliyifei/mac-karabiner-chinese-punctuations-to-halfwidth-forms) (⭐︎1)
 
