@@ -1,4 +1,4 @@
-### Hi there 👉 my [homepage (主页)](https://realliyifei.github.io)  ![](https://komarev.com/ghpvc/?username=realliyifei&label=Views&color=0ABAB5)
+### Hi there 👉 my [homepage](https://realliyifei.github.io)  ![](https://komarev.com/ghpvc/?username=realliyifei&label=Views&color=0ABAB5)
 <!-- - 🧠 Research interests: NLP, CV, multimodal, zero-shot learning, MLSys -->
 <!-- - 🎓 Current program: DS and CS at UPenn, doing NLP research -->
 
