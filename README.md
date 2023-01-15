@@ -2,7 +2,7 @@
 <!-- - 🧠 Research interests: NLP, CV, multimodal, zero-shot learning, MLSys -->
 <!-- - 🎓 Current program: DS and CS at UPenn, doing NLP research -->
 
-![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) | Each project with its star:
+![Repo Stars](https://img.shields.io/github/stars/realliyifei?label=Stars&style=social) | Each project w/ star:
 
 - 🧐 Research:
 [conceptor](https://github.com/realliyifei/conceptor-debias), 
