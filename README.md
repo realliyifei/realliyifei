@@ -27,7 +27,7 @@ Userscript
 Alfred 
 [#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎3) 
 [#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎5) 
-[#3](https://github.com/realliyifei/alfred-file-renamer) (⭐︎1), 
+[#3](https://github.com/realliyifei/alfred-file-renamer) (⭐︎2), 
 Karabiner 
 [#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) (⭐︎2) 
 [#2](https://github.com/realliyifei/mac-karabiner-number-function-keys) 
