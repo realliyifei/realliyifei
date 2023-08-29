@@ -11,7 +11,7 @@
 [diffusion](https://github.com/realliyifei/diffusion) 
 
 - 🤓 Practice: 
-[NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers), 
+[NLP](https://github.com/realliyifei/nlp-project-two-stage-summarization-with-pretrained-transformers) (⭐︎1), 
 [NLP2](https://github.com/realliyifei/neuro-symbolic-dual-system-on-task-oriented-dialogue-generation), 
 [NLP3](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game), 
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
@@ -26,7 +26,7 @@ Userscript
 [#1](https://github.com/realliyifei/userscript-wikipedia-optimizor) (⭐︎1), 
 Alfred 
 [#1](https://github.com/realliyifei/alfred-sequential-strings-creator) (⭐︎3) 
-[#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎6) 
+[#2](https://github.com/realliyifei/alfred-browser-tab-organizor) (⭐︎7) 
 [#3](https://github.com/realliyifei/alfred-file-renamer) (⭐︎2), 
 Karabiner 
 [#1](https://github.com/realliyifei/mac-karabiner-media-control-by-hyperkey) (⭐︎2) 
