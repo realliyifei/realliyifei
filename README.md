@@ -16,7 +16,7 @@
 [NLP3](https://github.com/realliyifei/cis700-01-hw1-text-adventure-game), 
 [CV](https://github.com/realliyifei/cv-project-solo-and-gru-for-hemostatic-plug-segmentation),
 [DL](https://github.com/realliyifei/DL-Project-Shopee-Product-Match) (⭐︎1), 
-[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎4), 
+[ML](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction) (⭐︎5), 
 [MM](https://github.com/realliyifei/llm-improve-diffusion) (⭐︎1), 
 [RL1](https://github.com/realliyifei/RL-Project-IRL-Gridworld), 
 [RL2](https://github.com/realliyifei/RL-Project-RL-in-Computer-System), 
